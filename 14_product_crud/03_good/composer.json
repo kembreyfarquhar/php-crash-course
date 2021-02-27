@@ -1,0 +1,15 @@
+{
+    "name": "katieembrey/03_good",
+    "authors": [
+        {
+            "name": "kembreyfarquhar",
+            "email": "kembreyfarquhar@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
